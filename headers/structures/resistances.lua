@@ -1,0 +1,5 @@
+---@class Resistances
+---@field antimatter number
+---@field electromagnetic number
+---@field kinetic number
+---@field thermic number

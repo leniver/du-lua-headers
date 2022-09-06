@@ -1,0 +1,7 @@
+---@class ConstructInfo
+---@field weapons number
+---@field radars number
+---@field antiGravity number
+---@field atmoEngines number
+---@field spaceEngines number
+---@field rocketEngines number

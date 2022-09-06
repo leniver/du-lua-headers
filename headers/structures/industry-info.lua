@@ -1,0 +1,11 @@
+---@class IndustryInfo
+---@field state number
+---@field stopRequested boolean
+---@field schematicRemaining number
+---@field unitsProduced number
+---@field remainingTime number
+---@field batchesRequested number
+---@field batchesRemaining number
+---@field maintainProductAmount number
+---@field currentProductAmount number
+---@field currentProducts ItemQuantity[]

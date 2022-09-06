@@ -1,0 +1,4 @@
+---@class OrePool
+---@field oreId number
+---@field available number
+---@field maximum number

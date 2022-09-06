@@ -1,0 +1,3 @@
+---@class OwnerEntity
+---@field id number
+---@field isOrganization boolean

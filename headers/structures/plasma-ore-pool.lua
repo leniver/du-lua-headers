@@ -1,0 +1,3 @@
+---@class PlasmaOrePool
+---@field oreId number
+---@field quantity number
