@@ -1,0 +1,21 @@
+{
+    "Lua": {
+        "runtime":{
+            "version": "Lua 5.3"
+        },
+        "diagnostics": {
+            "disable": [
+                "different-requires"
+            ],
+            "globals": [
+                "traceback",
+                "DUSystem"
+            ]
+        },
+        "workspace": {
+            "library": [
+                "[path to header folder]"
+            ]
+        }
+    }
+}
